@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userualidate",
+        "uuid": 1854810,
+        "checksum": "ggv67f"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
